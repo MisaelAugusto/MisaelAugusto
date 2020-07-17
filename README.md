@@ -19,7 +19,6 @@
     my creativity into practice by developing some simple logic games.
   </p>
 </main>
-<br />
 <footer id="contact">
   <h3>Contact:</h3>
   <ul>
