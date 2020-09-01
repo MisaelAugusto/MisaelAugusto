@@ -20,10 +20,8 @@
   </p>
 </main>
 <footer id="contact">
-  <h3>Contact:</h3>
-  <ul>
-    <li>Go to my 🌐️ <strong>Website</strong> clicking <a href="https://misaelaugusto.dev/">here</a>.</li>
-    <li>Send me a 📩️ <strong>Email</strong> clicking <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=misael.costa@ccc.ufcg.edu.br&tf=1"">here</a>.</li>
-    <li>Check out my 👨🏽‍⚖️️ <strong>Linkedin</strong> clicking <a href="https://www.linkedin.com/in/misael-augusto-b04073192/">here</a>.</li>
-  </ul>
+  
+  [![Website Badge](https://img.shields.io/badge/-website-6d8a88?style=for-the-badge&labelColor=6d8a88&logo=cliqz&logoColor=00aef0&link=https://misaelaugusto.dev)](https://misaelaugusto.dev)
+  [![Mail Badge](https://img.shields.io/badge/-e--mail-6d8a88?style=for-the-badge&labelColor=6d8a88&logo=gmail&logoColor=d14836&link=https://mail.google.com/mail/u/0/?view=cm&fs=1&to=misael.costa@ccc.ufcg.edu.br&tf=1)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=misael.costa@ccc.ufcg.edu.br&tf=1)
+  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-6d8a88?style=for-the-badge&labelColor=6d8a88&logo=linkedin&logoColor=015987&link=https://www.linkedin.com/in/misael-augusto-b04073192/)](https://www.linkedin.com/in/misael-augusto-b04073192/)
 </footer>
