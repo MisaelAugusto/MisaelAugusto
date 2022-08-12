@@ -2,7 +2,7 @@
 <main id="description">
   <p align="justify">
     I was born in the city of Campina Grande, in the state of Paraíba.<br/>
-    Today I am 20 and I am a student of Computer Science at Federal<br/>
+    Today I am 22 and I am graduated in Computer Science at Federal<br/>
     University of Campina Grande.
   </p>
   <p>
@@ -13,10 +13,11 @@
     if it&apos;s in a subtle way.
   </p>
   <p>
-    I am currently studying web and mobile development. My main<br/>
-    objective at the moment is to become a software engineer in any<br/>
-    of these areas. In addition, in my spare time, I also try to put<br/>
-    my creativity into practice by developing some simple logic games.
+    I am currently studying web and mobile development and working<br/>
+    as a Frontend Developer. My main objective at the moment is to<br/>
+    become a software engineer in any of these areas. In addition,<br/>
+    in my spare time, I also try to put my creativity into practice<br/>
+    by developing some simple games.
   </p>
 </main>
 <footer id="contact">
