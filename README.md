@@ -14,7 +14,7 @@
   </p>
   <p>
     I am currently studying web and mobile development and working<br/>
-    as a Frontend Developer. My main objective at the moment is to<br/>
+    as a Frontend Tech Lead. My main objective at the moment is to<br/>
     become a software engineer in any of these areas. In addition,<br/>
     in my spare time, I also try to put my creativity into practice<br/>
     by developing some simple games.
