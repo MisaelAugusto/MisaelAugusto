@@ -2,7 +2,7 @@
 <main id="description">
   <p align="justify">
     I was born in the city of Campina Grande, in the state of Paraíba.<br/>
-    Today I am 22 and I am graduated in Computer Science at Federal<br/>
+    Today I am 23 and I am graduated in Computer Science at Federal<br/>
     University of Campina Grande.
   </p>
   <p>
