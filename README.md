@@ -1,5 +1,5 @@
 ### Hi, I am Misael Augusto
-<img src="https://github-readme-stats.vercel.app/api?username=misaelaugusto&show_icons=true" alt="Github stats" align="right" width="450px" />
+<img src="https://github-readme-stats.vercel.app/api?username=misaelaugusto&show_icons=true" alt="Github stats" align="right" width="400px" />
 <main id="description">
   <p align="justify">
     I was born in the city of Campina Grande, in the state of Paraíba.<br/>
