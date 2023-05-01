@@ -1,5 +1,6 @@
 ### Hi, I am Misael Augusto
-<main id="description">
+<img src="https://github-readme-stats.vercel.app/api?username=misaelaugusto&show_icons=true" alt="Github stats" align="right" />
+<main id="description"> 
   <p align="justify">
     I was born in the city of Campina Grande, in the state of Paraíba.<br/>
     Today I am 23 and I am graduated in Computer Science at Federal<br/>
@@ -20,6 +21,7 @@
     by developing some simple games.
   </p>
 </main>
+  
 <footer id="contact">
   
   [![Website Badge](https://img.shields.io/badge/-website-6d8a88?style=for-the-badge&labelColor=6d8a88&logo=cliqz&logoColor=00aef0&link=https://misaelaugusto.dev)](https://misaelaugusto.dev)
